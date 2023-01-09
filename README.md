@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif)
+![MasterHead](https://media1.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
 <h1 align="center">Hi 👋, I'm Madhavi Peddireddy</h1>
 <h3 align="center">A passionate ML engineer from india</h3>
 
