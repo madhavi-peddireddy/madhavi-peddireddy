@@ -1,4 +1,4 @@
-![MasterHead](https://www.yash.com/wp-content/uploads/2019/07/demestiying-ai-ml-data-science.jpg)
+![MasterHead](https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Madhavi Peddireddy</h1>
 <h3 align="center">A passionate ML engineer from india</h3>
 
