@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/ThatCanineHorse-size_restricted.gif)
+![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 <h1 align="center">Hi 👋, I'm Madhavi Peddireddy</h1>
 <h3 align="center">A passionate ML engineer from india</h3>
 
