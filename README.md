@@ -1,4 +1,4 @@
-![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
+![MasterHead](https://turtlejacks.com/wp-content/uploads/2018/11/Holiday-Gift-Cards-homepage-banner-GIF-OPT.gif)
 <h1 align="center">Hi 👋, I'm Madhavi Peddireddy</h1>
 <h3 align="center">A passionate ML engineer from india</h3>
 
