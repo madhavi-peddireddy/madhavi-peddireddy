@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning ** Generative AI, Langchain**
 
 - 💬 Ask me about **Data Science, ML, AI,Web dev**
 
