@@ -8,7 +8,8 @@
 - 🤖 AI Enthusiast | 🌐 Exploring the Future of Intelligence
 
 - 🔍 About Me:
-- Passionate about the limitless possibilities of artificial intelligence, I'm on a relentless journey to unlock the mysteries of machine learning, neural networks, and data-driven decision-making. 🚀
+  
+  Passionate about the limitless possibilities of artificial intelligence, I'm on a relentless journey to unlock the mysteries of machine learning, neural networks, and data-driven decision-making. 🚀
 
 - 🧠 What Drives Me:
 I'm fueled by the belief that AI has the power to reshape industries, solve complex problems, and make our world a smarter, more efficient, and inclusive place. From computer vision to natural language processing, I'm on a quest to understand and contribute to the ever-evolving AI landscape.
