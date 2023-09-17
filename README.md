@@ -1,13 +1,13 @@
-![MasterHead](https://turtlejacks.com/wp-content/uploads/2018/11/Holiday-Gift-Cards-homepage-banner-GIF-OPT.gif)
+
 <h1 align="center">Hi 👋, I'm Madhavi Peddireddy</h1>
-<h3 align="center">A passionate ML engineer from india</h3>
+
 
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/78c5707b2fffc71fe2a0faf29d4bd5169a6c6131247a4c61ea01cd19744e8313/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavi-peddireddy&label=Profile%20views&color=0e75b6&style=flat" alt="madhavi-peddireddy" /> </p>
 
 🤖 AI Enthusiast | 🧠 Machine Learning Explorer | 🌐 Open Source Advocate
 
-👋 Hello, world! I'm [Your Name], a passionate AI enthusiast on an exhilarating journey through the realms of artificial intelligence and machine learning. 🚀
+👋 Hello, world! I'm Madhavi, a passionate AI enthusiast on an exhilarating journey through the realms of artificial intelligence and machine learning. 🚀
 
 🧪 I'm constantly experimenting with cutting-edge algorithms, tinkering with neural networks, and exploring the fascinating intersections of data science and AI to unlock the limitless potential of intelligent systems.
 
@@ -22,17 +22,6 @@
 #AI #MachineLearning #DataScience #OpenSource #EthicalAI #Innovation #CodeAndCoffee
 
 
-
-
-
-
-- 🌱 I’m currently learning **Generative AI, Langchain**
-
-- 💬 Ask me about **Data Science, ML, AI,Web dev**
-
-- 📫 How to reach me **madhavipeddireddysm@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cAmM-rT9-vltrW7c-QEz076uJHiAUrTs/view?usp=share_link](https://drive.google.com/file/d/1cAmM-rT9-vltrW7c-QEz076uJHiAUrTs/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
